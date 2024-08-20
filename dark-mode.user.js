@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         KYNOBY Dark Mode
 // @namespace    http://tampermonkey.net/
-// @version      v1.1
+// @version      v1.2
 // @description  try to take over the world!
 // @author       Zaeem
 // @match        https://www.kynoby.ai/*
